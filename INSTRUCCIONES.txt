@@ -1,0 +1,1 @@
+Proyecto Android Negativo SIMD. Para GitHub Actions, sube el CONTENIDO de esta carpeta a la raíz del repositorio: app/, .github/, build.gradle, settings.gradle y gradle.properties.

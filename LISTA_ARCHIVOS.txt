@@ -1,0 +1,12 @@
+Al subir a GitHub, la raíz del repositorio debe quedar así:
+
+app/
+build.gradle
+settings.gradle
+gradle.properties
+INSTRUCCIONES.txt
+WORKFLOW_COPIAR.txt
+LISTA_ARCHIVOS.txt
+
+Luego crea manualmente en GitHub este archivo:
+.github/workflows/build-apk.yml
